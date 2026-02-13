@@ -1,7 +1,11 @@
-baseURL: 'http://localhost:1313/'
+baseURL: 'https://mi-cv.vercel.app/'
 languageCode: 'es-es'
-title: 'Jorge Luis Ayona Inglis'
-theme: 'github.com/adityatelange/hugo-PaperMod'
+title: 'Jorge Luis Ayona Inglis - CV'
+theme: 'papermod'
+
+defaultContentLanguage: es
+hasCJKLanguage: false
+removePathAccents: true
 
 params:
   author: Jorge Luis Ayona Inglis
