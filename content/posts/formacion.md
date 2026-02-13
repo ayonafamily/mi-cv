@@ -10,6 +10,11 @@ weight: 7
 
 
 ### Formación Continua
-* **Teología y Filosofía**: Seminarios sobre Vaticano II, Fe y Cultura, Padres de la Iglesia (FTPCL).
-* **Cursos Especializados**: Teodicea y Teología del Cuerpo (Encuentra - Opus Dei).
-* **Tecnología Educativa**: Diseño de Aulas Virtuales en Moodle (USMP).
+* **Catecismo de la Iglesia Católica** (V y E Multimedios, 11 oct – 11 nov 2012).
+* **Vaticano II** (V y E Multimedios, 1 nov – 2 dic 2012).
+* **El Concilio Vaticano II: brújula de la Iglesia** (Facultad de Teología Pontificia y Civil de Lima, 27–29 nov 2012).
+* **Fe y razón** (Facultad de Teología Pontificia y Civil de Lima, 2012).
+* **Fe y Eucaristía** (Facultad de Teología Pontificia y Civil de Lima, 2012).
+* **Introducción al cristianismo** (Facultad de Teología Pontificia y Civil de Lima, 2012).
+* **Curso Intensivo De Catecismo De La Iglesia Católica 2 Curso de extensión** (Facultad de Teología Pontificia y Civil de Lima, 2024)
+* **Acompañamiento psico-espiritual a las víctimas y sobrevivientes 2024-2 Curso de extensión** (Facultad de Teología Pontificia y Civil de Lima, 2024)
