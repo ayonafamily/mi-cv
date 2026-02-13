@@ -1,15 +1,24 @@
-baseURL: 'https://curriculum-academigo.vercel.app/'
-languageCode: 'es-es'
-title: 'Jorge Luis Ayona Inglis - CV'
-theme: 'papermod'
-
-defaultContentLanguage: es
-hasCJKLanguage: false
-removePathAccents: true
+baseURL: "https://cv.entrelarazonylafe.com"
+languageCode: "es-es"
+title: "Jorge Luis Ayona Inglis - CV"
+theme: "papermod"
+env: "production"
 
 params:
-  author: Jorge Luis Ayona Inglis
+  # Esto es para WhatsApp (Imagen de la página principal)
+  images: ["avatar.jpg"]
+
   description: "Teología | Filosofía | Consultoría | Formación Humana"
-  defaultTheme: auto
-  ShowReadingTime: false
-  ShowShareButtons: false
+  author: "Jorge Luis Ayona Inglis"
+
+  profileMode:
+    enabled: true
+    title: "Jorge Luis Ayona Inglis"
+    imageUrl: "avatar.jpg"
+    imageWidth: 120
+    imageHeight: 120
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false

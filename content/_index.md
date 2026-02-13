@@ -5,7 +5,8 @@ menu:
     weight: 1
     params:
       icon: home
----
+    images:
+      "https://cv.entrelarazonylafe.com/images/avatar.jpg"
 ---
 sections:
   - title: "Perfil Profesional"
