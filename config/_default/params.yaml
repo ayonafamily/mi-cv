@@ -1,0 +1,22 @@
+profileMode:
+  enabled: true
+  title: "Jorge Luis Ayona Inglis"
+  subtitle: "Teología | Filosofía | Consultoría | Formación Humana"
+  imageUrl: "images/avatar.jpg"
+  imageWidth: 120
+  imageHeight: 120
+  imageTitle: "Foto de perfil"
+  buttons:
+    - name: "Correo"
+      url: "mailto:jorge.ayona.inglis@ucsp.edu.pe"
+    - name: "Blog"
+      url: "https://entrelarazonylafe.com"
+
+socialIcons:
+  - name: github
+    url: "https://github.com/ayonafamily"
+  - name: linkedin
+    url: "https://www.linkedin.com/in/jorgeayonainglis"
+
+ShowReadingTime: false
+ShowShareButtons: false

@@ -1,0 +1,25 @@
+main:
+  - name: Perfil
+    url: /posts/perfil/
+    weight: 1
+  - name: Educación
+    url: /posts/educacion/
+    weight: 2
+  - name: Experiencia
+    url: /posts/experiencia/
+    weight: 3
+  - name: Ministerio
+    url: /posts/ministerio/
+    weight: 4
+  - name: Medios
+    url: /posts/medios/
+    weight: 5
+  - name: Formación
+    url: /posts/formacion/
+    weight: 6
+  - name: Intereses
+    url: /posts/intereses/
+    weight: 7
+  - name: Producción
+    url: /posts/produccion-intelectual/
+    weight: 8

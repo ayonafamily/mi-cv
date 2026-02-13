@@ -1,0 +1,11 @@
+baseURL: 'http://localhost:1313/'
+languageCode: 'es-es'
+title: 'Jorge Luis Ayona Inglis'
+theme: 'github.com/adityatelange/hugo-PaperMod'
+
+params:
+  author: Jorge Luis Ayona Inglis
+  description: "Teología | Filosofía | Consultoría | Formación Humana"
+  defaultTheme: auto
+  ShowReadingTime: false
+  ShowShareButtons: false
