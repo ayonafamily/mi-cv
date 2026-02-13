@@ -18,3 +18,14 @@ weight: 7
 * **Introducción al cristianismo** (Facultad de Teología Pontificia y Civil de Lima, 2012).
 * **Curso Intensivo De Catecismo De La Iglesia Católica 2 Curso de extensión** (Facultad de Teología Pontificia y Civil de Lima, 2024)
 * **Acompañamiento psico-espiritual a las víctimas y sobrevivientes 2024-2 Curso de extensión** (Facultad de Teología Pontificia y Civil de Lima, 2024)
+
+### Programa BeCat
+
+BeCaT es una plataforma de formación online y una iniciativa centrada en la catequesis familiar y la formación de catequistas y profesores de centros católicos.
+
+* **Moral fundamental**	6 de agosto de 2024.
+* **La Iglesia** 20 de septiembre de 2024
+* **Teología fundamental** 21 de octubre de 2024.
+* **Acompañamiento Espiritual** 22 de noviembre de 2024.
+* **Misterio de Dios Uno y Trino** 7 de abril de 2025.
+* **Quo Vadis? - Antropología cristiana y Apologética** domingo, 6 de julio de 2025 
