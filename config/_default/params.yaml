@@ -7,6 +7,8 @@ profileMode:
   imageHeight: 120
   imageTitle: "Foto de perfil"
   buttons:
+    - name: "Entrar al sitio"
+      url: "/posts/"
     - name: "Correo"
       url: "mailto:jorge.ayona.inglis@ucsp.edu.pe"
     - name: "Blog"
