@@ -1,4 +1,4 @@
-baseURL: "https://cv.entrelarazonylafe.com"
+baseURL: "https://cv.entrelarazonylafe.com/"
 languageCode: "es-es"
 title: "Jorge Luis Ayona Inglis - CV"
 theme: "papermod"
@@ -22,3 +22,9 @@ params:
     hidden: false
     hiddenInList: false
     hiddenInSingle: false
+
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon.ico"
+    favicon32x32: "favicon.ico"
+    apple_touch_icon: "favicon.ico"
