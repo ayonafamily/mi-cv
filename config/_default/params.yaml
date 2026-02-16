@@ -12,7 +12,7 @@ profileMode:
     - name: "Correo"
       url: "mailto:jorge.ayona.inglis@ucsp.edu.pe"
     - name: "Blog"
-      url: "https://entrelarazonylafe.com"
+      url: "https://www.entrelarazonylafe.com"
 
 socialIcons:
   - name: github
