@@ -1,0 +1,82 @@
+baseURL: "https://cv.entrelarazonylafe.com/"
+languageCode: "es-es"
+title: "Jorge Luis Ayona Inglis - CV"
+theme: "papermod"
+env: "production"
+
+params:
+  # Configuración de SEO y Redes
+  description: "Teología | Filosofía | Consultoría | Formación Humana"
+  author: "Jorge Luis Ayona Inglis"
+  images: ["/avatar.jpg"]
+
+  # Modo Perfil (Home)
+  profileMode:
+    enabled: true
+    title: "Jorge Luis Ayona Inglis"
+    subtitle: "Teología | Filosofía | Consultoría | Formación Humana"
+    imageUrl: "/avatar.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Foto de perfil"
+    buttons:
+      - name: "Entrar al sitio"
+        url: "/posts/"
+      - name: "Correo"
+        url: "mailto:jorge.ayona.inglis@ucsp.edu.pe"
+      - name: "Blog"
+        url: "https://www.entrelarazonylafe.com"
+      - name: "Cv Corporativo"
+        url: "https://www.jorgeayona.com"
+
+  # Iconos Sociales
+  socialIcons:
+    - name: github
+      url: "https://github.com/ayonafamily"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jorgeayonainglis"
+
+  # Ajustes de Interfaz
+  ShowReadingTime: false
+  ShowShareButtons: false
+  hidePoweredBy: true
+
+  # Imágenes de Portada y Favicons
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon.ico"
+    favicon32x32: "favicon.ico"
+    apple_touch_icon: "favicon.ico"
+
+# Menú de Navegación
+menu:
+  main:
+    - name: Perfil
+      url: /posts/perfil/
+      weight: 1
+    - name: Educación
+      url: /posts/educacion/
+      weight: 2
+    - name: Experiencia
+      url: /posts/experiencia/
+      weight: 3
+    - name: Ministerio
+      url: /posts/ministerio/
+      weight: 4
+    - name: Medios
+      url: /posts/medios/
+      weight: 5
+    - name: Formación
+      url: /posts/formacion/
+      weight: 6
+    - name: Intereses
+      url: /posts/intereses/
+      weight: 7
+    - name: Producción
+      url: /posts/produccion-intelectual/
+      weight: 8

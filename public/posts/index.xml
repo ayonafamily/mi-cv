@@ -1,68 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Jorge Luis Ayona Inglis - CV</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:8888/posts/</link>
     <description>Recent content in Posts on Jorge Luis Ayona Inglis - CV</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Jorge Luis Ayona Inglis - CV</title>
+      <url>http://localhost:8888/avatar.jpg</url>
+      <link>http://localhost:8888/avatar.jpg</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8888/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perfil Profesional</title>
-      <link>http://localhost:1313/posts/perfil/</link>
+      <link>http://localhost:8888/posts/perfil/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/perfil/</guid>
-      <description>&lt;h2 id=&#34;jorge-luis-ayona-inglis&#34;&gt;Jorge Luis Ayona Inglis&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Teología |Filosofía |Consultoría | Formación Humana&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;📍 Lima, Perú | 📞 995121512 | 📧 &lt;a href=&#34;mailto:jorge.ayona.inglis@ucsp.edu.pe&#34;&gt;jorge.ayona.inglis@ucsp.edu.pe&lt;/a&gt;&lt;br&gt;&#xA;🌐 &lt;a href=&#34;https://entrelarazonylafe.com&#34;&gt;entrelarazonylafe.com&lt;/a&gt; | 🆔 ORCID: 0009-0006-6551-9681&lt;/p&gt;&#xA;&lt;h3 id=&#34;perfil-profesional&#34;&gt;Perfil Profesional&lt;/h3&gt;&#xA;&lt;p&gt;Estudiante de Teología con sólida trayectoria en docencia, consultoría y formación integral. Especializado en el diálogo entre fe y razón, con experiencia en gestión de proyectos educativos, capacitación ética y comunicación. Creador de contenido académico enfocado en la divulgación teológica y la antropología cristiana.&lt;/p&gt;</description>
+      <guid>http://localhost:8888/posts/perfil/</guid>
+      <description>&lt;h2 id=&#34;jorge-luis-ayona-inglis&#34;&gt;Jorge Luis Ayona Inglis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Teología |Filosofía |Consultoría | Formación Humana&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📍 Lima, Perú | 📞 995121512 | 📧 &lt;a href=&#34;mailto:jorge.ayona.inglis@ucsp.edu.pe&#34;&gt;jorge.ayona.inglis@ucsp.edu.pe&lt;/a&gt;&lt;br&gt;
+🌐 &lt;a href=&#34;https://entrelarazonylafe.com&#34;&gt;entrelarazonylafe.com&lt;/a&gt; | 🆔 ORCID: 0009-0006-6551-9681&lt;/p&gt;
+&lt;h3 id=&#34;perfil-profesional&#34;&gt;Perfil Profesional&lt;/h3&gt;
+&lt;p&gt;Estudiante de Teología con sólida trayectoria en docencia, consultoría y formación integral. Especializado en el diálogo entre fe y razón, con experiencia en gestión de proyectos educativos, capacitación ética y comunicación. Creador de contenido académico enfocado en la divulgación teológica y la antropología cristiana.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Formación Académica</title>
-      <link>http://localhost:1313/posts/educacion/</link>
+      <link>http://localhost:8888/posts/educacion/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/educacion/</guid>
-      <description>&lt;h3 id=&#34;formación-académica&#34;&gt;Formación Académica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachillerato en Teología (En curso)&lt;/strong&gt; | Universidad Católica Santa María de Arequipa (2025 – Presente)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diplomado en Antropología Teológica&lt;/strong&gt; | Universidad Católica San Pablo (2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Licenciatura y Máster en Teología Pastoral&lt;/strong&gt; | Seminario Kyrios, Argentina (2008 – 2010)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachiller en Ciencias Administrativas&lt;/strong&gt; | Universidad de San Martín de Porres, Lima (1979 – 2010)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:8888/posts/educacion/</guid>
+      <description>&lt;h3 id=&#34;formación-académica&#34;&gt;Formación Académica&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bachillerato en Teología (En curso)&lt;/strong&gt; | Universidad Católica Santa María de Arequipa (2025 – Presente)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diplomado en Antropología Teológica&lt;/strong&gt; | Universidad Católica San Pablo (2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Licenciatura y Máster en Teología Pastoral&lt;/strong&gt; | Seminario Kyrios, Argentina (2008 – 2010)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bachiller en Ciencias Administrativas&lt;/strong&gt; | Universidad de San Martín de Porres, Lima (1979 – 2010)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Experiencia en Docencia y Consultoría</title>
-      <link>http://localhost:1313/posts/experiencia/</link>
+      <link>http://localhost:8888/posts/experiencia/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/experiencia/</guid>
-      <description>&lt;h3 id=&#34;experiencia-en-docencia-y-consultoría&#34;&gt;Experiencia en Docencia y Consultoría&lt;/h3&gt;&#xA;&lt;h4 id=&#34;docencia&#34;&gt;Docencia&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Parroquia San Pablo y Virgen del Carmen&lt;/strong&gt; | Ponente de formación católica (Lima, 2015).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Universidad César Vallejo&lt;/strong&gt; | Conferencista en liderazgo y resolución de conflictos (Trujillo, noviembre 2002).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Universidad Privada Antenor Orrego&lt;/strong&gt; | Conferencista en liderazgo (Trujillo).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Penal San Pedro&lt;/strong&gt; | Docente del curso de Administración de Empresas (Lima).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seminario Didáskalos&lt;/strong&gt; | Docente de Liderazgo I y II (Trujillo, enero – julio 2009).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seminario Bíblico Camino de Vida&lt;/strong&gt; | Docente (Lima).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Red Mundial de Empresarios Cristianos&lt;/strong&gt; | Ponente (Trujillo).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Red de Hombres Cristianos&lt;/strong&gt; | Orador motivacional y coach.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;consultoría&#34;&gt;Consultoría&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Proyectos &amp;amp; Minería S.A.C.&lt;/strong&gt; | Coach y consultor (2010 – 2013).&lt;/p&gt;</description>
+      <guid>http://localhost:8888/posts/experiencia/</guid>
+      <description>&lt;h3 id=&#34;experiencia-en-docencia-y-consultoría&#34;&gt;Experiencia en Docencia y Consultoría&lt;/h3&gt;
+&lt;h4 id=&#34;docencia&#34;&gt;Docencia&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Parroquia San Pablo y Virgen del Carmen&lt;/strong&gt; | Ponente de formación católica (Lima, 2015).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universidad César Vallejo&lt;/strong&gt; | Conferencista en liderazgo y resolución de conflictos (Trujillo, noviembre 2002).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universidad Privada Antenor Orrego&lt;/strong&gt; | Conferencista en liderazgo (Trujillo).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Penal San Pedro&lt;/strong&gt; | Docente del curso de Administración de Empresas (Lima).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seminario Didáskalos&lt;/strong&gt; | Docente de Liderazgo I y II (Trujillo, enero – julio 2009).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seminario Bíblico Camino de Vida&lt;/strong&gt; | Docente (Lima).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Red Mundial de Empresarios Cristianos&lt;/strong&gt; | Ponente (Trujillo).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Red de Hombres Cristianos&lt;/strong&gt; | Orador motivacional y coach.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;consultoría&#34;&gt;Consultoría&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Proyectos &amp;amp; Minería S.A.C.&lt;/strong&gt; | Coach y consultor (2010 – 2013).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trayectoria Ministerial</title>
-      <link>http://localhost:1313/posts/ministerio/</link>
+      <link>http://localhost:8888/posts/ministerio/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ministerio/</guid>
-      <description>&lt;h3 id=&#34;trayectoria-ministerial-y-pastoral&#34;&gt;Trayectoria Ministerial y Pastoral&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Catequista Parroquial&lt;/strong&gt; | Parroquia San Pablo y Virgen del Carmen (2024 – Presente)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pastor Ordenado&lt;/strong&gt; | Misión Cristiana Camino de Vida (1995 – 2009)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Área de Publicaciones&lt;/strong&gt; | Camino de Vida (1995 – 2001)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Servicio Social&lt;/strong&gt;: Tutor en Hogar para Niños (1994-1996) y Ministerio Carcelario (1993-1994)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:8888/posts/ministerio/</guid>
+      <description>&lt;h3 id=&#34;trayectoria-ministerial-y-pastoral&#34;&gt;Trayectoria Ministerial y Pastoral&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Catequista Parroquial&lt;/strong&gt; | Parroquia San Pablo y Virgen del Carmen (2024 – Presente)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pastor Ordenado&lt;/strong&gt; | Misión Cristiana Camino de Vida (1995 – 2009)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Área de Publicaciones&lt;/strong&gt; | Camino de Vida (1995 – 2001)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servicio Social&lt;/strong&gt;: Tutor en Hogar para Niños (1994-1996) y Ministerio Carcelario (1993-1994)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Medios de Comunicación</title>
-      <link>http://localhost:1313/posts/medios/</link>
+      <link>http://localhost:8888/posts/medios/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/medios/</guid>
-      <description>&lt;h3 id=&#34;medios-de-comunicación&#34;&gt;Medios de Comunicación&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Conductor de TV&lt;/strong&gt;: Programa &lt;em&gt;Alto Nivel&lt;/em&gt;, Canal 27 UHF Trujillo (2008 – 2009)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coanimador Radial&lt;/strong&gt;: Programa &lt;em&gt;Enfoque&lt;/em&gt;, Radio La Luz Trujillo (2005)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Conductor de Sección&lt;/strong&gt;: &lt;em&gt;Consultorio Familiar&lt;/em&gt;, Radio La Luz Lima (2000)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:8888/posts/medios/</guid>
+      <description>&lt;h3 id=&#34;medios-de-comunicación&#34;&gt;Medios de Comunicación&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Conductor de TV&lt;/strong&gt;: Programa &lt;em&gt;Alto Nivel&lt;/em&gt;, Canal 27 UHF Trujillo (2008 – 2009)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coanimador Radial&lt;/strong&gt;: Programa &lt;em&gt;Enfoque&lt;/em&gt;, Radio La Luz Trujillo (2005)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conductor de Sección&lt;/strong&gt;: &lt;em&gt;Consultorio Familiar&lt;/em&gt;, Radio La Luz Lima (2000)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Formación Continua</title>
-      <link>http://localhost:1313/posts/formacion/</link>
+      <link>http://localhost:8888/posts/formacion/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/formacion/</guid>
-      <description>&lt;h3 id=&#34;formación-continua&#34;&gt;Formación Continua&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Catecismo de la Iglesia Católica&lt;/strong&gt; (V y E Multimedios, 11 oct – 11 nov 2012).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vaticano II&lt;/strong&gt; (V y E Multimedios, 1 nov – 2 dic 2012).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;El Concilio Vaticano II: brújula de la Iglesia&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 27–29 nov 2012).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fe y razón&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2012).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fe y Eucaristía&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2012).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Introducción al cristianismo&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2012).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Curso Intensivo De Catecismo De La Iglesia Católica 2 Curso de extensión&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acompañamiento psico-espiritual a las víctimas y sobrevivientes 2024-2 Curso de extensión&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2024)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:8888/posts/formacion/</guid>
+      <description>&lt;h3 id=&#34;formación-continua&#34;&gt;Formación Continua&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Catecismo de la Iglesia Católica&lt;/strong&gt; (V y E Multimedios, 11 oct – 11 nov 2012).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vaticano II&lt;/strong&gt; (V y E Multimedios, 1 nov – 2 dic 2012).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;El Concilio Vaticano II: brújula de la Iglesia&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 27–29 nov 2012).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fe y razón&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2012).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fe y Eucaristía&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2012).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introducción al cristianismo&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2012).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Curso Intensivo De Catecismo De La Iglesia Católica 2 Curso de extensión&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acompañamiento psico-espiritual a las víctimas y sobrevivientes 2024-2 Curso de extensión&lt;/strong&gt; (Facultad de Teología Pontificia y Civil de Lima, 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;programa-becat&#34;&gt;Programa BeCat&lt;/h3&gt;
+&lt;p&gt;BeCaT es una plataforma de formación online y una iniciativa centrada en la catequesis familiar y la formación de catequistas y profesores de centros católicos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Intereses Académicos</title>
-      <link>http://localhost:1313/posts/intereses/</link>
+      <link>http://localhost:8888/posts/intereses/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/intereses/</guid>
-      <description>&lt;h2 id=&#34;intereses-académicos&#34;&gt;Intereses académicos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Literatura, historia y cine como herramientas de análisis cultural, antropológico y narrativo.&lt;/li&gt;&#xA;&lt;li&gt;Filosofía, con especial interés en ética, sentido de la existencia y pensamiento moderno.&lt;/li&gt;&#xA;&lt;li&gt;Programación y tecnología aplicadas a la comunicación, la educación y la gestión del conocimiento.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:8888/posts/intereses/</guid>
+      <description>&lt;h2 id=&#34;intereses-académicos&#34;&gt;Intereses académicos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Literatura, historia y cine como herramientas de análisis cultural, antropológico y narrativo.&lt;/li&gt;
+&lt;li&gt;Filosofía, con especial interés en ética, sentido de la existencia y pensamiento moderno.&lt;/li&gt;
+&lt;li&gt;Programación y tecnología aplicadas a la comunicación, la educación y la gestión del conocimiento.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Producción Intelectual</title>
-      <link>http://localhost:1313/posts/produccion-intelectual/</link>
+      <link>http://localhost:8888/posts/produccion-intelectual/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/produccion-intelectual/</guid>
-      <description>&lt;h3 id=&#34;producción-intelectual&#34;&gt;Producción Intelectual&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blog &amp;ldquo;Entre la razón y la fe&amp;rdquo;&lt;/strong&gt;: Autor y editor de este espacio de reflexión académica sobre teología y cultura.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Investigación&lt;/strong&gt;: Registro activo en ORCID para aportes académicos en el marco de la UCSP y UCSM.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:8888/posts/produccion-intelectual/</guid>
+      <description>&lt;h3 id=&#34;producción-intelectual&#34;&gt;Producción Intelectual&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blog &amp;ldquo;Entre la razón y la fe&amp;rdquo;&lt;/strong&gt;: Autor y editor de este espacio de reflexión académica sobre teología y cultura.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Investigación&lt;/strong&gt;: Registro activo en ORCID para aportes académicos en el marco de la UCSP y UCSM.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

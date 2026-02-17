@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/perfil/</loc>
+    <loc>http://localhost:8888/posts/perfil/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/educacion/</loc>
+    <loc>http://localhost:8888/posts/educacion/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/experiencia/</loc>
+    <loc>http://localhost:8888/posts/experiencia/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ministerio/</loc>
+    <loc>http://localhost:8888/posts/ministerio/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/medios/</loc>
+    <loc>http://localhost:8888/posts/medios/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/formacion/</loc>
+    <loc>http://localhost:8888/posts/formacion/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/intereses/</loc>
+    <loc>http://localhost:8888/posts/intereses/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/produccion-intelectual/</loc>
+    <loc>http://localhost:8888/posts/produccion-intelectual/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:8888/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:8888/posts/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:8888/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:8888/tags/</loc>
   </url>
 </urlset>
